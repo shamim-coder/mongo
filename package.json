@@ -1,0 +1,28 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "node-mongo-express-js",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpshamim/mongo.git"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "node"
+  ],
+  "author": "Shamim Reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpshamim/mongo/issues"
+  },
+  "homepage": "https://github.com/wpshamim/mongo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
